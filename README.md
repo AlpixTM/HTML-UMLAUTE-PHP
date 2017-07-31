@@ -7,7 +7,7 @@ HTML Schreibweise für ä,ö,ü,ß - Automatischer Filter
 (Außerhalb in anderen .php Scripten z.B.: index,php)
 
                   <?php    
-                  include_once 'output.php';    
+                  include_once 'outprint.php';    
                   $outprint=new outprint();     
                   $outprint->printthis("äaü");  
                   ?>    

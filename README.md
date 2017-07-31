@@ -1,9 +1,10 @@
 # PHP
 # output.php  
-HTML schreibweise für ä,ö,ü,ß - Automatischer Filter  
-Nutzung
+HTML Schreibweise für ä,ö,ü,ß - Automatischer Filter
 
-(Außerhalb auf anderen .php Scripten z.B.: index,php)
+###Nutzung:
+
+(Außerhalb in anderen .php Scripten z.B.: index,php)
 
                   <?php    
                   include_once 'output.php';    

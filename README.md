@@ -7,7 +7,7 @@ Nutzung
 
                   <?php    
                   include_once 'output.php';    
-                  $output=new output();     
-                  $output->put("äaü");  
+                  $outprint=new outprint();     
+                  $outprint->printthis("äaü");  
                   ?>    
 

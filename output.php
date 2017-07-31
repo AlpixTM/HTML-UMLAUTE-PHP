@@ -2,8 +2,8 @@
 /*
  * Alpix
  */
-class output {
-	function put($value) {
+class outprint {
+	function printthis($value) {
 		$search="ä";
 		$replace="&auml;";
 		$value=str_replace ( $search, $replace ,  $value  );
